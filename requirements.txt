@@ -1,0 +1,5 @@
+torch
+transformers
+python-telegram-bot
+firebase-admin
+numpy
