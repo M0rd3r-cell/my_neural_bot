@@ -1,5 +1,4 @@
---index-url https:/download.pytorch.org/whl/cpu
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
 transformers
 python-telegram-bot
 firebase-admin
